@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="133px" height="33px" viewBox="314 948 133 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(314.000000, 948.041966)">
+        <path d="M131.977722,18.859306 C131.946722,17.898306 131.414722,9.472306 122.479722,9.472306 L10.039722,9.472306 C9.947722,9.472306 0.869722,9.575306 0.547722,18.483306" id="Stroke-262" stroke="#F16549"></path>
+        <rect id="Rectangle-3" fill="#FEF0ED" x="33" y="3" width="66" height="12"></rect>
+        <text id="WEEKDAYS" font-family="LucidaGrande, Lucida Grande" font-size="13" font-weight="normal" fill="#807E82">
+            <tspan x="33.1811879" y="13">WEEK</tspan>
+            <tspan x="66.8808949" y="13" letter-spacing="-0.156">D</tspan>
+            <tspan x="76.4621996" y="13" letter-spacing="-0.7137">A</tspan>
+            <tspan x="84.7177379" y="13">YS</tspan>
+        </text>
+    </g>
+</svg>
